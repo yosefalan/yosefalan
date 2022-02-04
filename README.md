@@ -10,12 +10,12 @@ Ever the intrepid world traveler, I also dabble in non-programming languages: Sp
 
 I used to be a Salsa and Bachata dancer, but then I fell in love with Brazilian Zouk and never looked back. I train, teach, and social dance whenever I can. I also decided to use social distancing over the past couple years as an excuse to learn to sing and write songs. And already having a background in audio production, I am excited to explore the spaces where music production and technology meet.
 
-Get in touch! 
+Get in touch:
 
 joseph.nackman@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/joseph-nackman/) |
 [Portfolio](https://yosefalan.github.io/) |
+[LinkedIn](https://www.linkedin.com/in/joseph-nackman/) |
 [AngelList](https://angel.co/u/joseph-nackman)
 
 
