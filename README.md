@@ -4,7 +4,7 @@ I am a software engineer, musician, and dancer.
 
 JavaScript is my native language, but I am conversational in Python. Able to navigate a full stack. Experienced with Node.js, Express.js, React, Redux, Flask, PostgreSQL, Sequelize, SQAlchemy. Also familiar with testing frameworks: Mocha, Cypress, and Pytest.
 
-Able to quickly learn and apply new programming languages, frameworks, and libraries. I am currently working on some projects using Next.js, TypeScript, and Three.js.
+Able to quickly learn and apply new programming languages, frameworks, and libraries. Always eager to expand my skills and knowledge, I am currently working on some projects using Next.js, TypeScript, and Three.js.
 
 Get in touch:
 
