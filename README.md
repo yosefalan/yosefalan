@@ -11,18 +11,6 @@ When personal circumstances and a pandemic made it clear that it was time for a 
 I applied to App Academy, a challenging  Full Stack Web Development program with a 5% acceptance rate, and got in!  I was then able to fortify my frontend development skills and greatly expand my knowledge of JavaScript as well as adding new technologies to my repertoire such as React, Redux, and Node.js,  I also expanded my skills to include proficiency with backend technologies: Servers, APIs, and Databases using tools like Express, Python, Flask, and SQL,
 
 Always hungry for growth and development, I am currently adding even more technologies to my skill set as I am learning Java, Spring, and Angular in the Fast Track Program with Cook Systems.  
-
-
-Get in touch:
-
-joseph.nackman@gmail.com
-
-[Portfolio](https://yosefalan.github.io/) |
-[LinkedIn](https://www.linkedin.com/in/joseph-nackman/) |
-
-
-
-
 <!--
 **yosefalan/yosefalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
